@@ -16,9 +16,10 @@ To engage with the KaseiCoin Crowdsale project, ensure you have the following pr
 ### Setup Instructions
 
 1. Clone the project repository to your local machine and navigate into the project directory.
-2. Launch Ganache to initiate a local blockchain instance.
-3. Use Remix Online IDE to compile the smart contracts ensuring they are ready for deployment.
-4. Deploy the contracts onto your local blockchain using Remix IDE's.
+2. Install the necessary Node.js dependencies specified in the project's `package.json` file.
+3. Launch Ganache to initiate a local blockchain instance.
+4. Use Remix Online IDE to compile the smart contracts ensuring they are ready for deployment.
+5. Deploy the contracts onto your local blockchain using Remix IDE's.
 
 ## Usage
 
